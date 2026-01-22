@@ -1,8 +1,8 @@
 
 # ReLE评测：中文AI大模型能力评测（持续更新）
 - ReLE （**R**eally R**e**liable **L**ive **E**valuation for LLM），原名CLiB
-- 目前已囊括338个大模型，覆盖chatgpt、gpt-5.2、o4-mini、谷歌gemini-3-pro、Claude-4.5、文心ERNIE-X1.1、ERNIE-5.0-Thinking、qwen3-max、qwen3-plus、百川、讯飞星火、商汤senseChat等商用模型，
-以及kimi-k2、ernie4.5、minimax-M2.1、deepseek-v3.2、qwen3-2507、llama4、智谱GLM-4.7、gemma3、mistral等开源大模型。
+- 目前已囊括339个大模型，覆盖chatgpt、gpt-5.2、o4-mini、谷歌gemini-3-pro、Claude-4.5、文心ERNIE-X1.1、ERNIE-5.0-Thinking、qwen3-max、qwen3-plus、百川、讯飞星火、商汤senseChat等商用模型，
+以及kimi-k2、ernie4.5、minimax-M2.1、deepseek-v3.2、qwen3-2507、llama4、智谱GLM-4.7、LongCat、gemma3、mistral等开源大模型。
 - 支持多维度能力评测，包括教育、医疗与心理健康、金融、法律与行政公务、推理与数学计算、语言与指令遵从、agent与工具调用等7个领域，以及细分的~300个维度（比如牙科、高中语文…）。
 - 不仅提供排行榜，也提供规模**超200万的大模型缺陷库**！方便广大社区研究分析、改进大模型。
 - 为您的私有大模型提供免费评测服务，联系我们：[加微信](#联系我们)
@@ -57,7 +57,7 @@
 
 # 最近评测更新
 - [2025/1/22] v5.8.10版本
-  - 新增大模型：GLM-4.7-Flash
+  - 新增大模型：GLM-4.7-Flash、LongCat-Flash-Thinking-2601
 - [2025/12/24] v5.8.9版本
   - 新增大模型：qwen3-max-preview-think（qwen3-max-preview开启思考模式）
 - [2025/12/23] v5.8.8版本
@@ -740,7 +740,7 @@ Options:
 A:  
 > 
 
-完整排行榜见[BBH](leaderboard/符号推理BBH.md)<br>
+完整排行榜见[BBH](leaderboard/bbh.md)<br>
 ☛查看[BBH符号推理：badcase](https://nonelinear.com/static/badcase/badcase-of-benchmark.html?benchmark=BBH)
 <br><br>
 

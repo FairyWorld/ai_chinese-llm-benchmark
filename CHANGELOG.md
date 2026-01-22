@@ -1,6 +1,6 @@
 ## 最近更新
 - [2025/1/22] v5.8.10版本
-  - 新增大模型：GLM-4.7-Flash
+  - 新增大模型：GLM-4.7-Flash、LongCat-Flash-Thinking-2601
 - [2025/12/24] v5.8.9版本
   - 新增大模型：qwen3-max-preview-think（qwen3-max-preview开启思考模式）
 - [2025/12/23] v5.8.8版本
