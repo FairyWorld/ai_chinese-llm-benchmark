@@ -119,11 +119,11 @@
 # GitHub热门大模型评测项目
 | repo                                                                               | star  | area   | about                                                                                                                                                                                                                                                                   |
 |------------------------------------------------------------------------------------|-------|--------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [langfuse](https://github.com/langfuse/langfuse)                                   | 17.9k | 国外     | Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23                                                                     |
-| [opik](https://github.com/comet-ml/opik)                                           | 15.4k | 国外     | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.                                                                                              |
-| [deepeval](https://github.com/confident-ai/deepeval)                      | 11.9k | 国外     | The LLM Evaluation Framework                                                                                                                                                                                                                                            |
+| [langfuse](https://github.com/langfuse/langfuse)                                   | 20.5k | 国外     | Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23                                                                     |
+| [opik](https://github.com/comet-ml/opik)                                           | 17.3k | 国外     | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.                                                                                              |
+| [deepeval](https://github.com/confident-ai/deepeval)                      | 13.0k | 国外     | The LLM Evaluation Framework                                                                                                                                                                                                                                            |
 |……|……|……|……|
-| [⭐chinese-llm-benchmark（我们）](https://github.com/jeinlee1991/chinese-llm-benchmark) | 5.1k  | **国内** | ReLE中文大模型能力评测（持续更新） |                                                                                               |
+| [⭐chinese-llm-benchmark（我们）](https://github.com/jeinlee1991/chinese-llm-benchmark) | 5.4k  | **国内** | ReLE中文大模型能力评测（持续更新） |                                                                                               |
 |……|……|……|……|
 
 详见[hot50](GitHub热门评测repo.md)
@@ -132,10 +132,10 @@
 
 # 大模型基本信息
 - [每周最新模型](每周最新模型.md)
+    - [1月12~1月18](每周最新模型.md#1月121月18)
     - [1月5~1月11](每周最新模型.md#1月51月11)
     - [12月29~1月4](每周最新模型.md#12月291月4)
     - [12月22~12月28](每周最新模型.md#12月2212月28)
-    - [12月15~12月21](每周最新模型.md#12月1512月21)
 - 更多信息详见[模型列表](https://nonelinear.com/static/models.html)
 <br><br>
 
