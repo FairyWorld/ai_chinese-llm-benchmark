@@ -56,6 +56,8 @@
 - [Cite Us](#如何引用-ReLE-评测Cite-Us)
 
 # 最近评测更新
+- [2025/1/27] v5.8.11版本
+  - 新增大模型：qwen3-max-2026-01-23、qwen3-max-think-2026-01-23
 - [2025/1/22] v5.8.10版本
   - 新增大模型：GLM-4.7-Flash、LongCat-Flash-Thinking-2601、ERNIE-5.0
 - [2025/12/24] v5.8.9版本
@@ -183,8 +185,8 @@ client.chat.completions.create(
 
 |类别|机构|大模型|【总分】准确率|平均耗时|平均消耗token|花费/千次（元）|排名（准确率）|
 |---|---|-----|-------------------|-------|-----------|-----------|-----------|
-|商用|google|gemini-3-pro-preview(new)|72.5%|64s|3119|247.3|1|
-|商用|腾讯|hunyuan-2.0-thinking-20251109|71.9%|28s|2544|9.5|2|
+|商用|阿里巴巴|qwen3-max-think-2026-01-23(new)|72.8%|214s|4540|43.5|1|
+|商用|google|gemini-3-pro-preview(new)|72.5%|64s|3119|247.3|2|
 
    
 详细数据见：[综合能力排行榜](leaderboard/总分.md) | [通用能力排行榜](leaderboard/通用能力.md) | [专业能力排行榜](leaderboard/专业能力.md)
