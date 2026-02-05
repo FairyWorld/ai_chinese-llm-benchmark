@@ -145,7 +145,7 @@
 <br><br>
 
 # 🚀 大模型统一网关
-隆重推出 一站式 AI 模型超市 🛒，提供当下最全的大模型，让您永远快人一步。
+非线智能隆重推出 一站式 AI 模型超市 🛒，提供当下最全的大模型，让您永远快人一步。
 - 🌐 全球模型，一网打尽：GPT-5.1、Gemini-3-Pro、Claude-4.5、DeepSeek-v3.2、Kimi-k2……
 - ⚖️ 智能负载与高并发：我们聚合了多家顶级供应商，通过智能路由实现自动负载均衡。您从此可以告别烦人的 Rate Limit 报错，轻松应对任何流量洪峰！
 - 🔀 自动故障切换：单一供应商的 API 临时“抽风”？没关系！我们的系统会毫秒级无感切换到健康的备用渠道，确保您的服务 99.9999% 高可用，让您的用户远离“服务不可用”的尴尬。
@@ -166,7 +166,7 @@ client.chat.completions.create(
 
 
 # 💥模型选型：目标降本90%
-拒绝“盲选”大模型🎉！上传你的【专属测试数据】📊，5分钟🔍测出哪个模型在你的场景下效果最好🏆、最划算💰！选择最合适模型，成本或降90%💥！[去体验>>](https://nonelinear.com/static/task-create.html)
+拒绝“盲选”大模型🎉！上传你的【专属测试数据】📊，5分钟🔍测出哪个模型在你的场景下效果最好🏆、最划算💰！选择最合适模型，成本或降90%💥！[去非线智能官网体验>>](https://nonelinear.com/static/task-create.html)
 ![link](docs/modelSelection/img/task-result-html.png)
 <video controls src="docs/modelSelection/img/modelsel.mp4"></video>
 
