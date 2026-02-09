@@ -1042,7 +1042,7 @@ BFCL-V3是加州大学伯克利分校发布的工具调用评测集，首创多�
 <br><br>
 
 
-## 联系我们（非线智能 ReLE benchmanrk团队）
+## 联系我们（非线智能 ReLE benchmark团队）
 ### 大模型评测交流群
 先加小编微信，后拉入群，备注“来源github，加群”<br>
 ![lin](pic/qrcode-wxgroup.jpg)
