@@ -133,7 +133,7 @@
 |商用|阿里巴巴|qwen-long-2025-01-25|9.1%|15s|797|1.4|130|
 |开源|阿里巴巴|Qwen3-8B-nothink|4.8%|44s|1130|0.0|131|
 |开源|Mistral|Ministral-3-8B-Instruct-2512(new)|4.8%|14s|2704|2.9|132|
-|商用|anthropic|claude-4-sonnet-thinking|/%|13s|1044|92.8|133|
+|商用|anthropic|claude-4-sonnet-thinking|33.3%|13s|1044|92.8|133|
 |商用|anthropic|claude-4-sonnet|/%|48s|737|66.1|134|
 
 

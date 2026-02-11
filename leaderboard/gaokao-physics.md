@@ -134,7 +134,7 @@
 |开源|阿里巴巴|Qwen3-8B-nothink|6.7%|42s|1102|0.0|131|
 |商用|openAI|o4-mini|/%|33s|823|22.0|132|
 |商用|anthropic|claude-4-sonnet|/%|42s|694|56.3|133|
-|商用|anthropic|claude-4-sonnet-thinking|/%|12s|1058|93.7|134|
+|商用|anthropic|claude-4-sonnet-thinking|53.3%|12s|1058|93.7|134|
 
 
 ![lin](../pic/gaokao-physics.png)

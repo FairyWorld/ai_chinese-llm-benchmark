@@ -132,7 +132,7 @@
 |商用|Mistral|mistral-medium-2508|4.3%|28s|1096|13.5|129|
 |开源|google|gemma-3-12b-it|3.3%|/|/|/|130|
 |商用|百川智能|Baichuan4-Turbo|3.3%|/|/|/|131|
-|商用|anthropic|claude-4-sonnet-thinking|/%|58s|1138|98.3|132|
+|商用|anthropic|claude-4-sonnet-thinking|26.7%|58s|1138|98.3|132|
 |商用|anthropic|claude-4-sonnet|/%|49s|907|76.2|133|
 |商用|openAI|o4-mini|/%|28s|2023|59.2|134|
 

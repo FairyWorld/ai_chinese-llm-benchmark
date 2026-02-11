@@ -134,7 +134,7 @@
 |开源|阿里巴巴|Qwen3-1.7B|/%|189s|3502|10.2|131|
 |商用|openAI|o4-mini|/%|27s|781|22.5|132|
 |商用|XAI|grok-4-0709|/%|60s|1733|176.3|133|
-|商用|anthropic|claude-4-sonnet-thinking|/%|10s|747|62.9|134|
+|商用|anthropic|claude-4-sonnet-thinking|36.7%|10s|747|62.9|134|
 
 
 ![lin](../pic/gaokao-geography.png)

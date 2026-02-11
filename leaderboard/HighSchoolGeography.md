@@ -134,7 +134,7 @@
 |商用|openAI|o4-mini|/%|19s|816|23.1|131|
 |开源|google|gemma-3-4b-it|/%|29s|480|0.0|132|
 |商用|anthropic|claude-4-sonnet|/%|44s|629|53.6|133|
-|商用|anthropic|claude-4-sonnet-thinking|/%|10s|757|62.2|134|
+|商用|anthropic|claude-4-sonnet-thinking|51.7%|10s|757|62.2|134|
 
 
 ![lin](../pic/HighSchoolGeography.png)

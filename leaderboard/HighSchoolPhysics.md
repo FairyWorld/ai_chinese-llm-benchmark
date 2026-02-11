@@ -132,7 +132,7 @@
 |开源|google|gemma-3-4b-it|/%|43s|904|0.0|129|
 |开源|阿里巴巴|Qwen3-32B-nothink|/%|48s|952|3.4|130|
 |商用|anthropic|claude-4-sonnet|/%|47s|689|59.7|131|
-|商用|anthropic|claude-4-sonnet-thinking|/%|49s|878|78.5|132|
+|商用|anthropic|claude-4-sonnet-thinking|36.4%|49s|878|78.5|132|
 |开源|Mistral|Ministral-3-3B-Instruct-2512(new)|/%|23s|4268|3.0|133|
 |开源|智谱AI|GLM-4-9B-0414|/%|21s|738|0.0|134|
 
