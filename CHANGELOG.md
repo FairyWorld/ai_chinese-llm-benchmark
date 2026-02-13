@@ -1,11 +1,11 @@
 ## 最近更新
 - [2026/2/9] v5.8.13版本
   - 新增大模型：claude-opus-4.6、GLM-5、MiniMax-M2.5、LongCat-Flash-Lite、MiMo-V2-Flash-0204、MiMo-V2-Flash-think-0204
-- [2025/2/2] v5.8.12版本
+- [2026/2/2] v5.8.12版本
   - 新增大模型：step-3.5-flash
-- [2025/1/27] v5.8.11版本
+- [2026/1/27] v5.8.11版本
   - 新增大模型：qwen3-max-2026-01-23、qwen3-max-think-2026-01-23（qwen3-max-2026-01-23开启思考模式）、Kimi-K2.5-Thinking
-- [2025/1/22] v5.8.10版本
+- [2026/1/22] v5.8.10版本
   - 新增大模型：GLM-4.7-Flash、LongCat-Flash-Thinking-2601、ERNIE-5.0
 - [2025/12/24] v5.8.9版本
   - 新增大模型：qwen3-max-preview-think（qwen3-max-preview开启思考模式）
