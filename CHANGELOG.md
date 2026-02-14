@@ -1,4 +1,6 @@
 ## 最近更新
+- [2026/2/14] v5.8.14版本
+  - 新增大模型：Doubao-Seed-2.0-pro、Doubao-Seed-2.0-lite、Doubao-Seed-2.0-mini
 - [2026/2/9] v5.8.13版本
   - 新增大模型：claude-opus-4.6、GLM-5、MiniMax-M2.5、LongCat-Flash-Lite、MiMo-V2-Flash-0204、MiMo-V2-Flash-think-0204
 - [2026/2/2] v5.8.12版本
