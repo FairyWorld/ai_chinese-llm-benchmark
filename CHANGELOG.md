@@ -1,4 +1,6 @@
 ## 最近更新
+- [2026/2/20] v5.8.15版本
+  - 新增大模型：qwen3.5-plus
 - [2026/2/14] v5.8.14版本
   - 新增大模型：Doubao-Seed-2.0-pro、Doubao-Seed-2.0-lite、Doubao-Seed-2.0-mini
 - [2026/2/9] v5.8.13版本
