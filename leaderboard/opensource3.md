@@ -50,6 +50,5 @@
 |47|ERNIE-4.5-21B-A3B☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|百度|2.0元|51.1%| |        45.5%|73.6%|67.9%|        58.3%|38.5%|63.4%|        38.4%|
 |48|MiniMax-Text-01☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|minimax|8.0元|49.0%| |        30.0%|69.4%|69.5%|        64.0%|41.7%|64.8%|        28.8%|
 |49|Llama-4-Scout-17B-16E-Instruct☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|meta|2.175元|45.3%| |        36.0%|66.3%|62.6%|        44.7%|46.4%|61.1%|        19.2%|
-|50|Magistral-Small-2507☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|Mistral|10.875元|44.8%| |        34.4%|55.3%|55.9%|        53.3%|43.9%|49.1%|        35.1%|
-|51|Mistral-Small-3.2-24B-Instruct-2506☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|Mistral|2.175元|42.9%| |        31.0%|54.1%|54.5%|        60.3%|43.2%|43.7%|        32.8%|
-|52|gemma-3-27b-it☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|google|1.45元|38.9%| |        29.6%|50.6%|56.4%|        39.7%|43.4%|49.1%|        17.6%|
+|50|Mistral-Small-3.2-24B-Instruct-2506☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|Mistral|2.175元|42.9%| |        31.0%|54.1%|54.5%|        60.3%|43.2%|43.7%|        32.8%|
+|51|gemma-3-27b-it☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|google|1.45元|38.9%| |        29.6%|50.6%|56.4%|        39.7%|43.4%|49.1%|        17.6%|

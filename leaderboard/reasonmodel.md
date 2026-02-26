@@ -84,9 +84,7 @@
 |81|DeepSeek-R1-0528-Qwen3-8B☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|深度求索|0.0元|54.5%| |        35.7%|65.9%|67.4%|        58.5%|60.0%|56.3%|        43.9%|
 |82|gpt-oss-20b☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|openAI|1.16元|54.2%| |        34.1%|53.1%|60.8%|        59.7%|66.0%|59.3%|        40.0%|
 |83|doubao-seed-1-6-flash-250615☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|豆包|1.5元|53.4%| |        53.2%|80.9%|77.2%|        66.2%|48.8%|69.7%|        21.0%|
-|84|360zhinao2-o1☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|360|10.0元|52.9%| |        38.7%|67.8%|65.4%|        55.8%|53.2%|58.3%|        42.0%|
-|85|Qwen3-4B☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|阿里巴巴|3.0元|51.2%| |        33.1%|64.8%|70.6%|        53.0%|51.2%|56.0%|        40.8%|
-|86|gemini-2.5-flash-lite☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|google|2.9元|46.8%| |        30.9%|54.2%|57.8%|        50.7%|48.6%|60.2%|        29.6%|
-|87|Magistral-Small-2507☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|Mistral|10.875元|44.8%| |        34.4%|55.3%|55.9%|        53.3%|43.9%|49.1%|        35.1%|
-|88|Qwen3-1.7B☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|阿里巴巴|3.0元|42.7%| |        30.5%|51.7%|59.1%|        46.0%|45.3%|49.0%|        28.3%|
-|89|Qwen3-0.6B☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|阿里巴巴|3.0元|33.9%| |        21.0%|34.8%|40.5%|        30.7%|31.8%|49.6%|        23.3%|
+|84|Qwen3-4B☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|阿里巴巴|3.0元|51.2%| |        33.1%|64.8%|70.6%|        53.0%|51.2%|56.0%|        40.8%|
+|85|gemini-2.5-flash-lite☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|google|2.9元|46.8%| |        30.9%|54.2%|57.8%|        50.7%|48.6%|60.2%|        29.6%|
+|86|Qwen3-1.7B☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|阿里巴巴|3.0元|42.7%| |        30.5%|51.7%|59.1%|        46.0%|45.3%|49.0%|        28.3%|
+|87|Qwen3-0.6B☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|阿里巴巴|3.0元|33.9%| |        21.0%|34.8%|40.5%|        30.7%|31.8%|49.6%|        23.3%|
