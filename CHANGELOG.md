@@ -1,6 +1,6 @@
 ## 最近更新
 - [2026/3/5] v5.8.17版本
-  - 新增大模型：gemini-3.1-flash-lite-preview、gpt-5.3-chat
+  - 新增大模型：gemini-3.1-flash-lite-preview、gpt-5.3-chat、gpt-5.4、gpt-5.4-high
 - [2026/2/25] v5.8.16版本
   - 新增大模型：qwen3.5-flash、Qwen3.5-27B、Qwen3.5-122B-A10B
 - [2026/2/20] v5.8.15版本

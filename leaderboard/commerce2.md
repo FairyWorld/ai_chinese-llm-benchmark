@@ -4,8 +4,8 @@
 |1|Doubao-Seed-2.0-pro(new)☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|豆包|16.0元|76.5%| |        65.9%|90.5%|87.7%|        84.7%|78.9%|76.0%|        67.5%|
 |2|Qwen3.5-122B-A10B(new)☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|阿里巴巴|6.4元|74.0%| |        59.1%|84.8%|83.4%|        84.7%|85.5%|66.2%|        65.0%|
 |3|qwen3-max-think-2026-01-23(new)☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|阿里巴巴|10.0元|72.8%| |        54.4%|84.3%|85.6%|        80.3%|79.9%|65.5%|        68.6%|
-|4|doubao-seed-1-6-thinking-250715☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|豆包|8.0元|71.7%| |        64.4%|87.8%|84.1%|        85.0%|76.4%|73.3%|        54.4%|
-|5|doubao-seed-1-8-251215(new)☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|豆包|8.0元|71.7%| |        61.1%|88.5%|86.0%|        84.0%|74.4%|67.1%|        63.1%|
+|4|doubao-seed-1-8-251215(new)☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|豆包|8.0元|71.7%| |        61.1%|88.5%|86.0%|        84.0%|74.4%|67.1%|        63.1%|
+|5|doubao-seed-1-6-thinking-250715☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|豆包|8.0元|71.7%| |        64.4%|87.8%|84.1%|        85.0%|76.4%|73.3%|        54.4%|
 |6|GLM-4.7(new)☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|智谱AI|14.0元|71.5%| |        52.0%|83.6%|84.2%|        80.3%|72.7%|69.3%|        68.1%|
 |7|gemini-3-flash-preview(new)☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|google|21.3元|71.5%| |        63.5%|87.2%|84.0%|        83.3%|83.4%|72.2%|        48.6%|
 |8|Kimi-K2.5-Thinking(new)☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|月之暗面|21.0元|71.3%| |        58.3%|87.7%|87.6%|        80.3%|78.0%|72.1%|        54.6%|
@@ -45,5 +45,5 @@
 |42|mistral-large-2512(new)☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|Mistral|10.68元|54.3%| |        44.2%|73.5%|74.4%|        69.0%|53.1%|53.7%|        42.0%|
 |43|MiniMax-Text-01☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|minimax|8.0元|49.2%| |        30.0%|69.4%|69.5%|        64.0%|41.7%|64.8%|        28.8%|
 |44|Baichuan4-Turbo☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|百川智能|15.0元|48.4%| |        39.2%|74.3%|70.1%|        56.5%|43.9%|56.7%|        29.4%|
-|45|mistral-medium-2508☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|Mistral|14.5元|0.0%| |        36.4%|68.0%|73.1%|        64.3%|37.8%|52.0%|        33.9%|
-|46|qwen-plus-think-2025-07-28☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|阿里巴巴|8.0元|0.0%| |        58.2%|81.2%|83.0%|        78.7%|73.1%|66.7%|        52.7%|
+|45|qwen-plus-think-2025-07-28☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|阿里巴巴|8.0元|0.0%| |        58.2%|81.2%|83.0%|        78.7%|73.1%|66.7%|        52.7%|
+|46|mistral-medium-2508☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|Mistral|14.5元|0.0%| |        36.4%|68.0%|73.1%|        64.3%|37.8%|52.0%|        33.9%|
