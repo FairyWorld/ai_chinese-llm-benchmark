@@ -57,6 +57,8 @@
 - [Cite Us](#如何引用-ReLE-评测Cite-Us)
 
 # 最近评测更新
+- [2026/3/17] v5.8.18版本
+  - 新增大模型：GLM-5-Turbo
 - [2026/3/5] v5.8.17版本
   - 新增大模型：gemini-3.1-flash-lite-preview、gpt-5.3-chat、gpt-5.4、gpt-5.4-high
 - [2026/2/25] v5.8.16版本
