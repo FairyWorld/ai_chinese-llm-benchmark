@@ -1,0 +1,19 @@
+| 排名 | 模型 | 厂商 | 准确率 |
+|------|------|------|--------|
+| 1 | qwen3.5-plus | 阿里 | 66% |
+| 2 | gpt-5.4 | OpenAI | 63% |
+| 3 | gemini-3.1-pro-preview | Google | 63% |
+| 4 | claude-opus-4.6 | Anthropic | 61% |
+| 5 | Doubao-Seed-2.0-mini | 字节跳动 | 61% |
+| 6 | gpt-5.4-high | OpenAI | 61% |
+| 7 | Kimi-K2.5-Thinking | 月之暗面 | 60% |
+| 8 | Doubao-Seed-2.0-pro | 字节跳动 | 60% |
+| 9 | Qwen3.5-122B-A10B | 阿里 | 58% |
+| 10 | Doubao-Seed-2.0-lite | 字节跳动 | 58% |
+| 11 | gpt-5.3-chat | OpenAI | 56% |
+| 12 | ERNIE-5.0 | 百度 | 56% |
+| 13 | Qwen3.5-27B | 阿里 | 56% |
+| 14 | qwen3.5-flash | 阿里 | 56% |
+| 15 | gemini-3-flash-preview | Google | 53% |
+| 16 | gemini-3.1-flash-lite-preview | Google | 53% |
+| 17 | GLM-4.6V | 智谱 | 50% |

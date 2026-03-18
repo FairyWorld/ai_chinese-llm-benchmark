@@ -1,4 +1,7 @@
 ## 最近更新
+- [2026/3/18] v5.8.19版本
+  - 新增大模型：gpt-5.4-mini、gpt-5.4-mini-high、gpt-5.4-nano、gpt-5.4-nano-high、MiniMax-M2.7
+  - 删除陈旧的模型：ERNIE-Lite-8K、MiniMax-Text-01、Doubao-1.5-lite-32k-250115、MiniMax-M1、kimi-k2-0711-preview、doubao-seed-1-6-thinking-250715
 - [2026/3/17] v5.8.18版本
   - 新增大模型：GLM-5-Turbo
 - [2026/3/5] v5.8.17版本
