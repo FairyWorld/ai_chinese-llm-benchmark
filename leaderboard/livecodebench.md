@@ -152,6 +152,8 @@
 |开源|阿里巴巴|Qwen3-0.6B-nothink|4.0%|/|/|/|149|
 |开源|百度|ERNIE-4.5-0.3B|3.0%|/|/|/|150|
 |商用|阿里巴巴|qwen3.6-plus(new)|/%|/|/|/|151|
+|开源|google|gemma-4-31b-it(new)|/%|/|/|/|152|
+|开源|google|gemma-4-26b-a4b-it(new)|/%|/|/|/|153|
 
 
 ![lin](../pic/livecodebench.png)
