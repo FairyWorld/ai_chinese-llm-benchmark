@@ -1,4 +1,10 @@
 ## 最近更新
+- [2026/4/15] v5.9版本
+  - coding排行榜新增[terminal bench 2.0榜单](#92-Terminal-Bench-20)
+  - 首次推出[coding排行总榜](#9coding排行榜) 
+  - 删除陈旧的模型：DeepSeek-V3.2-Exp、DeepSeek-V3.2-Exp-Think、xunfei-spark-x1-0725、doubao-seed-1-6-flash-250615、
+doubao-seed-1-6-flash-thinking-250615、doubao-seed-1-6-250615、grok-4-0709、GLM-4.5、GLM-4.5-nothink、GLM-4.6、MiniMax-M2、
+qwen-plus-2025-07-28、qwen-plus-think-2025-07-28、grok-3-mini、gemini-3-pro-preview
 - [2026/4/8] v5.8.23版本
   - 新增大模型：GLM-5.1
 - [2026/4/6] v5.8.22版本

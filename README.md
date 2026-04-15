@@ -50,6 +50,8 @@
     - [8.1 TAU](#81-TAU)
     - [8.2 BFCL-V3](#82-BFCL-V3)
   - [9、coding排行榜](#9coding排行榜)
+    - [9.1 livecodebench](#91-livecodebench)
+    - [9.2 Terminal-Bench-2.0](#92-Terminal-Bench-20)  
   - [10、整合LMArena和AA分数](#10整合LMArena和AA分数)    
 - [🌐各项能力评分](#🌐各项能力评分)
 - [为什么做榜单？](#为什么做榜单)
@@ -57,6 +59,12 @@
 - [Cite Us](#如何引用-ReLE-评测Cite-Us)
 
 # 最近评测更新
+- [2026/4/15] v5.9版本
+  - coding排行榜新增[terminal bench 2.0榜单](#92-Terminal-Bench-20)
+  - 首次推出[coding排行总榜](#9coding排行榜) 
+  - 删除陈旧的模型：DeepSeek-V3.2-Exp、DeepSeek-V3.2-Exp-Think、xunfei-spark-x1-0725、doubao-seed-1-6-flash-250615、
+doubao-seed-1-6-flash-thinking-250615、doubao-seed-1-6-250615、grok-4-0709、GLM-4.5、GLM-4.5-nothink、GLM-4.6、MiniMax-M2、
+qwen-plus-2025-07-28、qwen-plus-think-2025-07-28、grok-3-mini、gemini-3-pro-preview
 - [2026/4/8] v5.8.23版本
   - 新增大模型：GLM-5.1
 - [2026/4/6] v5.8.22版本
@@ -969,10 +977,18 @@ BFCL-V3是加州大学伯克利分校发布的工具调用评测集，首创多�
 
 ## 9、coding排行榜
 评估大模型编程能力，暂时不计入总分。
-### 9.1 livecodebench
-完整排行榜见[livecodebench](leaderboard/livecodebench.md)
-<br><br><br>
+<br>完整排行榜见[coding](leaderboard/coding.md)<br>
 
+### 9.1 livecodebench
+[LiveCodeBench](https://github.com/LiveCodeBench/LiveCodeBench) 为大型语言模型（LLM）的编程能力提供全面且无数据污染的评估。具体而言，LiveCodeBench 持续从三大竞赛平台——LeetCode、AtCoder 和 CodeForces——的赛事中随时间推移不断收集新题目。
+<br>完整排行榜见[livecodebench](leaderboard/livecodebench.md)
+<br><br>
+
+
+### 9.2 Terminal-Bench-2.0
+[Terminal-Bench](https://github.com/harbor-framework/terminal-bench-2)是一个热门基准测试，用于评估智能体和语言模型在容器化环境中执行有价值工作的能力。测试任务包括蛋白质合成组装、异步代码调试以及安全漏洞修复等。
+<br>完整排行榜见[Terminal-Bench-2.0](leaderboard/Terminal-Bench-2.0.md)
+<br><br><br>
 
 
 ## 10、整合LMArena和AA分数
