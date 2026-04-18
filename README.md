@@ -1,7 +1,7 @@
 
 # ReLE评测：中文AI大模型能力评测（持续更新）
 - ReLE （**R**eally R**e**liable **L**ive **E**valuation for LLM），原名CLiB
-- 目前已囊括369个大模型，覆盖chatgpt、gpt-5.4、谷歌gemini-3.1-pro、Claude-4.6、文心ERNIE-X1.1、ERNIE-5.0、qwen3-max、qwen3.6-plus、百川、讯飞星火、商汤senseChat等商用模型，
+- 目前已囊括370个大模型，覆盖chatgpt、gpt-5.4、谷歌gemini-3.1-pro、Claude-4.6、文心ERNIE-X1.1、ERNIE-5.0、qwen3-max、qwen3.6-plus、百川、讯飞星火、商汤senseChat等商用模型，
 以及step3.5-flash、kimi-k2.5、ernie4.5、MiniMax-M2.7、deepseek-v3.2、Qwen3.5、llama4、智谱GLM-5.1、MiMo-V2、LongCat、gemma4、mistral等开源大模型。
 - 支持多维度能力评测，包括教育、医疗与心理健康、金融、法律与行政公务、推理与数学计算、语言与指令遵从、agent与工具调用等7个领域，以及细分的~300个维度（比如牙科、高中语文…）。详见我们的技术报告[ReLE: A Scalable System and Structured Benchmark for Diagnosing Capability Anisotropy in Chinese LLMs](https://www.arxiv.org/abs/2601.17399) 媒体报道(机器之心):[全球304个中文大模型实测：没有“全能王者”，ReLE凭70%降本方案破解评估困局](https://www.jiqizhixin.com/articles/2026-02-03)
 - 不仅提供排行榜，也提供规模**超200万的大模型缺陷库**！方便广大社区研究分析、改进大模型。
@@ -59,6 +59,13 @@
 - [Cite Us](#如何引用-ReLE-评测Cite-Us)
 
 # 最近评测更新
+- [2026/4/18] v5.10版本
+  - coding能力归入通用能力，计入总分，排名有所变动
+  - 新增大模型：Qwen3.6-35B-A3B
+  - 删除陈旧的模型：Llama-4-Maverick-17B-128E-Instruct-FP8、DeepSeek-R1-0528-Qwen3-8B、ERNIE-4.5-0.3B、
+ERNIE-4.5-21B-A3B、ERNIE-4.5-300B-A47B、Hunyuan-A13B-Instruct、Hunyuan-A13B-Instruct-nothink、step-3、
+mistral-medium-2508、Mistral-Small-3.2-24B-Instruct-2506、Baichuan4-Air、gemma-3-27b-it、
+gemma-3-4b-it、gemma-3-12b-it、Qwen3-1.7B、Qwen3-0.6B、Qwen3-0.6B-nothink、Qwen3-1.7B-nothink
 - [2026/4/15] v5.9版本
   - coding排行榜新增[terminal bench 2.0榜单](#92-Terminal-Bench-20)
   - 首次推出[coding排行总榜](#9coding排行榜) 
@@ -170,8 +177,8 @@ client.chat.completions.create(
 
 |类别|机构|大模型|【总分】准确率|平均耗时|平均消耗token|花费/千次（元）|排名（准确率）|
 |---|---|-----|-------------------|-------|-----------|-----------|-----------|
-|商用|豆包|Doubao-Seed-2.0-pro(new)|76.5%|309s|1643|22.5|1|
-|商用|google|gemini-3.1-pro-preview(new)|74.8%|53s|3157|250.5|2|
+|商用|google|gemini-3.1-pro-preview(new)|75.2%|53s|3157|250.5|1|
+|开源|阿里巴巴|qwen3.5-plus(new)|73.3%|57s|4975|22.9|2|
 
    
 详细数据见：[综合能力排行榜](leaderboard/总分.md) | [通用能力排行榜](leaderboard/通用能力.md) | [专业能力排行榜](leaderboard/专业能力.md)
@@ -964,13 +971,13 @@ Antonio,36,男,西班牙,182,75,博士
 完整排行榜见[TAU-airline](leaderboard/TAU-airline.md)<br>
 
 #### (2) TAU-retail
-完整排行榜见[TAU-retail](leaderboard/TAU-retail.md)<br>
+完整排行榜见[TAU-retail](leaderboard/TAU-retail.md)
 <br><br>
 
 
 ### 8.2 BFCL-V3
 BFCL-V3是加州大学伯克利分校发布的工具调用评测集，首创多轮、多步函数调用场景，并通过API状态验证评估模型真实交互能力，是目前最权威的大模型工具使用基准之一。
-<br>完整排行榜见[BFCL-V3](leaderboard/BFCL-V3.md)<br>
+<br>完整排行榜见[BFCL-V3](leaderboard/BFCL-V3.md)
 <br><br><br>
 
 

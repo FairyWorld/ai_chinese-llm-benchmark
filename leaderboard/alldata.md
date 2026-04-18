@@ -1,142 +1,125 @@
 
-|排名|大模型|机构|输出价格|总分| |教育|医疗与心理健康|金融|法律与行政公务|推理与数学计算|语言与指令遵从|agent与工具调用|
-|---|-----|---|-------|---|-|---|-----------|----|-----------|------------|-----------|-----------|
-|1|Doubao-Seed-2.0-pro(new)☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|豆包|16.0元|76.5%| |        65.9%|90.5%|87.7%|        84.7%|78.9%|76.0%|        67.5%|
-|2|gemini-3.1-pro-preview(new)☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|google|85.2元|74.8%| |        68.6%|88.7%|83.6%|        83.7%|85.1%|72.4%|        58.7%|
-|3|qwen3.5-plus(new)☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|阿里巴巴|4.8元|74.7%| |        60.9%|84.8%|83.4%|        83.0%|80.4%|65.5%|        73.7%|
-|4|GLM-5.1(new)☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|智谱AI|24.0元|74.2%| |        61.1%|86.6%|85.2%|        81.7%|82.8%|62.2%|        71.7%|
-|5|Qwen3.5-122B-A10B(new)☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|阿里巴巴|6.4元|73.9%| |        59.1%|84.8%|83.4%|        84.7%|85.5%|66.2%|        65.0%|
-|6|Doubao-Seed-2.0-lite(new)☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|豆包|3.6元|73.9%| |        64.9%|89.4%|84.2%|        85.7%|85.8%|64.6%|        62.0%|
-|7|qwen3-max-think-2026-01-23☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|阿里巴巴|10.0元|72.7%| |        54.4%|84.3%|85.6%|        80.3%|79.9%|65.5%|        68.6%|
-|8|gpt-5.4-high(new)☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|openAI|105.0元|72.6%| |        59.9%|85.3%|85.1%|        81.5%|78.2%|72.3%|        60.3%|
-|9|Qwen3.5-27B(new)☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|阿里巴巴|4.8元|72.3%| |        57.9%|79.4%|75.9%|        83.7%|83.2%|67.6%|        63.9%|
-|10|hunyuan-2.0-thinking-20251109☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|腾讯|4.0元|71.9%| |        63.1%|88.4%|84.8%|        81.3%|77.9%|63.8%|        64.3%|
-|11|Doubao-Seed-2.0-mini(new)☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|豆包|2.0元|71.8%| |        63.4%|85.5%|79.7%|        88.7%|78.8%|64.0%|        62.8%|
-|12|doubao-seed-1-8-251215☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|豆包|8.0元|71.7%| |        61.1%|88.5%|86.0%|        84.0%|74.4%|67.1%|        63.1%|
-|13|qwen3.6-plus(new)☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|阿里巴巴|12.0元|71.6%| |        60.0%|83.8%|77.1%|        81.3%|74.6%|70.3%|        64.7%|
-|14|GLM-4.7☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|智谱AI|14.0元|71.5%| |        52.0%|83.6%|84.2%|        80.3%|72.7%|69.3%|        68.1%|
-|15|gemini-3-flash-preview☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|google|21.3元|71.5%| |        63.5%|87.2%|84.0%|        83.3%|83.4%|72.2%|        48.6%|
-|16|GLM-5-Turbo(new)☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|智谱AI|22.0元|71.5%| |        55.9%|84.4%|83.9%|        80.3%|74.8%|69.3%|        64.5%|
-|17|Kimi-K2.5-Thinking☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|月之暗面|21.0元|71.3%| |        58.3%|87.7%|87.6%|        80.3%|78.0%|72.1%|        54.6%|
-|18|GLM-5(new)☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|智谱AI|18.0元|71.0%| |        59.0%|85.7%|83.2%|        79.3%|73.6%|67.6%|        64.2%|
-|19|ERNIE-5.0☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|百度|24.0元|70.9%| |        55.7%|80.3%|78.8%|        81.7%|78.7%|68.0%|        61.9%|
-|20|DeepSeek-V3.2-Think☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|深度求索|3.0元|70.9%| |        53.9%|84.2%|84.1%|        84.3%|77.6%|74.7%|        52.9%|
-|21|qwen3.5-flash(new)☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|阿里巴巴|2.0元|70.7%| |        56.5%|81.3%|77.2%|        80.3%|79.0%|66.5%|        62.9%|
-|22|gpt-5.3-chat(new)☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|openAI|98.0元|70.6%| |        49.0%|79.0%|74.1%|        74.0%|78.1%|69.9%|        65.9%|
-|23|claude-opus-4.6☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|anthropic|175.0元|70.5%| |        63.0%|81.5%|79.0%|        82.7%|71.8%|63.0%|        69.1%|
-|24|gpt-5.1-high☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|openAI|71.0元|69.7%| |        48.5%|77.6%|72.6%|        75.0%|84.7%|67.0%|        59.2%|
-|25|gpt-5.1-medium☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|openAI|71.0元|69.3%| |        47.7%|77.3%|75.4%|        71.3%|83.5%|64.5%|        61.7%|
-|26|o4-mini☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|openAI|31.9元|69.0%| |        42.1%|60.4%|66.5%|        63.3%|87.0%|73.2%|        60.6%|
-|27|gpt-5-2025-08-07☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|openAI|72.5元|68.9%| |        51.0%|75.6%|71.3%|        73.7%|74.7%|75.6%|        57.8%|
-|28|gemini-2.5-pro☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|google|72.5元|68.9%| |        49.1%|77.8%|78.5%|        78.8%|72.2%|70.6%|        61.0%|
-|29|claude-sonnet-4.5-thinking☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|anthropic|108.75元|68.8%| |        54.9%|79.1%|78.0%|        81.0%|78.0%|64.2%|        58.4%|
-|30|MiMo-V2-Omni(new)☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|小米|14.0元|68.6%| |        56.2%|77.7%|71.7%|        83.3%|73.3%|62.0%|        66.0%|
-|31|LongCat-Flash-Thinking-2601☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|美团|0.0元|68.5%| |        47.3%|78.5%|79.8%|        77.3%|72.8%|56.5%|        66.3%|
-|32|MiMo-V2-Flash-think-0204(new)☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|小米|2.1元|68.2%| |        49.7%|79.2%|76.2%|        80.7%|71.7%|66.5%|        62.3%|
-|33|qwen3-max-preview-think☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|阿里巴巴|24.0元|68.2%| |        46.3%|82.0%|80.4%|        73.2%|75.0%|58.1%|        68.5%|
-|34|Kimi-K2-Thinking☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|月之暗面|16.0元|67.9%| |        45.6%|77.7%|71.9%|        72.3%|75.3%|63.4%|        68.0%|
-|35|DeepSeek-V3.1-Think☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|深度求索|12.0元|67.7%| |        50.4%|80.5%|82.8%|        82.0%|71.2%|71.7%|        52.3%|
-|36|MiniMax-M2.7(new)☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|minimax|8.4元|67.7%| |        43.8%|72.2%|70.2%|        74.7%|70.9%|59.6%|        75.8%|
-|37|MiMo-V2-Pro(new)☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|小米|21.0元|67.6%| |        48.9%|80.5%|80.1%|        70.7%|71.9%|64.5%|        63.3%|
-|38|qwen3-max-2026-01-23☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|阿里巴巴|10.0元|67.5%| |        50.8%|81.5%|83.9%|        80.7%|74.6%|60.0%|        59.7%|
-|39|gpt-5.4-mini-high(new)☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|openAI|31.5元|67.5%| |        42.3%|80.4%|70.8%|        73.3%|76.3%|68.9%|        58.4%|
-|40|hunyuan-t1-20250711☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|腾讯|4.0元|67.5%| |        58.9%|82.9%|83.6%|        76.3%|72.0%|72.9%|        46.8%|
-|41|ERNIE-5.0-Thinking-Preview☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|百度|24.0元|67.5%| |        50.4%|76.0%|74.1%|        82.3%|74.0%|65.9%|        58.4%|
-|42|gpt-5.2-high☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|openAI|99.4元|67.5%| |        48.3%|77.9%|76.4%|        76.0%|84.8%|63.8%|        50.8%|
-|43|qwen3-235b-a22b-instruct-2507☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|阿里巴巴|8.0元|67.3%| |        51.0%|82.7%|81.7%|        79.3%|66.0%|70.0%|        57.1%|
-|44|claude-4-sonnet☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|anthropic|108.75元|66.9%| |        46.4%|70.7%|71.1%|        70.0%|69.1%|78.5%|        56.2%|
-|45|qwen3-max-2025-09-23☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|阿里巴巴|24.0元|66.8%| |        51.0%|80.1%|81.4%|        78.0%|72.6%|56.7%|        63.7%|
-|46|hunyuan-2.0-instruct-20251111☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|腾讯|2.0元|66.8%| |        58.8%|84.3%|76.4%|        81.7%|67.1%|57.8%|        64.5%|
-|47|qwen3-max-preview☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|阿里巴巴|24.0元|66.5%| |        54.2%|82.8%|85.1%|        77.0%|71.0%|71.9%|        45.8%|
-|48|doubao-seed-1-6-lite-251015☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|豆包|2.4元|66.1%| |        60.2%|86.7%|80.8%|        84.7%|71.2%|70.6%|        41.3%|
-|49|DeepSeek-R1-0528☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|深度求索|16.0元|66.0%| |        42.5%|80.7%|79.0%|        81.0%|73.8%|72.9%|        44.7%|
-|50|hunyuan-turbos-20250926☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|腾讯|2.0元|65.9%| |        55.2%|86.1%|80.1%|        82.3%|64.9%|71.7%|        48.3%|
-|51|MiniMax-M2.5(new)☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|minimax|8.4元|65.7%| |        42.3%|73.7%|71.2%|        77.0%|71.2%|59.0%|        66.5%|
-|52|qwen3-235b-a22b-thinking-2507☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|阿里巴巴|10.0元|65.7%| |        57.2%|79.5%|79.6%|        78.3%|72.0%|66.6%|        47.4%|
-|53|GLM-4.5-Air☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|智谱AI|6.0元|65.4%| |        35.0%|73.4%|71.3%|        69.7%|62.8%|64.5%|        73.0%|
-|54|Qwen3-30B-A3B-Thinking-2507☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|阿里巴巴|2.8元|65.0%| |        50.0%|70.6%|71.8%|        75.7%|65.1%|66.8%|        60.5%|
-|55|claude-opus-4.5☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|anthropic|178.0元|64.9%| |        60.6%|82.8%|81.8%|        82.3%|67.9%|62.3%|        49.1%|
-|56|qwen3-next-80b-a3b-instruct☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|阿里巴巴|4.0元|64.6%| |        49.7%|80.8%|78.7%|        80.7%|60.2%|69.0%|        54.6%|
-|57|ERNIE-X1.1-Preview☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|百度|4.0元|64.5%| |        58.8%|77.6%|77.3%|        73.0%|63.5%|64.2%|        56.6%|
-|58|DeepSeek-V3.2☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|深度求索|3.0元|64.4%| |        53.0%|82.6%|81.8%|        82.7%|62.1%|66.8%|        50.6%|
-|59|gpt-5.2-medium☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|openAI|99.4元|64.3%| |        46.2%|77.0%|74.6%|        71.0%|78.0%|60.2%|        50.9%|
-|60|grok-4-1-fast-reasoning☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|XAI|3.55元|64.2%| |        39.6%|70.3%|70.6%|        65.3%|78.1%|52.8%|        65.4%|
-|61|DeepSeek-V3.1☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|深度求索|12.0元|64.2%| |        48.4%|79.1%|78.5%|        74.7%|61.7%|72.3%|        51.2%|
-|62|step-3.5-flash☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|阶跃星辰|2.1元|64.2%| |        49.4%|79.1%|71.3%|        78.3%|75.2%|53.6%|        57.1%|
-|63|qwen-plus-think-2025-12-01☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|阿里巴巴|8.0元|64.2%| |        54.4%|80.5%|80.6%|        75.3%|72.4%|54.4%|        54.8%|
-|64|qwen3-next-80b-a3b-thinking☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|阿里巴巴|4.0元|64.1%| |        54.0%|78.8%|76.0%|        76.3%|62.5%|57.1%|        63.4%|
-|65|qwen-flash-think-2025-07-28☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|阿里巴巴|1.5元|64.0%| |        46.7%|70.8%|71.5%|        72.7%|64.3%|68.0%|        57.8%|
-|66|MiniMax-M2.1☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|minimax|8.4元|63.6%| |        40.0%|70.5%|76.7%|        74.3%|70.2%|62.5%|        55.9%|
-|67|doubao-seed-1-6-251015☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|豆包|8.0元|63.5%| |        63.3%|87.6%|80.6%|        85.7%|65.7%|75.8%|        28.6%|
-|68|claude-haiku-4.5-thinking☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|anthropic|36.25元|63.4%| |        40.2%|70.0%|70.1%|        66.7%|78.9%|54.9%|        58.6%|
-|69|gpt-5-mini-2025-08-07☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|openAI|14.5元|63.3%| |        40.0%|55.8%|65.3%|        60.0%|80.2%|70.4%|        49.7%|
-|70|claude-sonnet-4.5(new)☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|anthropic|108.75元|63.1%| |        48.8%|76.6%|67.4%|        72.7%|64.0%|61.9%|        59.3%|
-|71|Seed-OSS-36B-Instruct☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|豆包|4.0元|63.1%| |        59.8%|82.5%|75.9%|        81.0%|77.3%|69.8%|        27.1%|
-|72|GLM-4.5-Flash☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|智谱AI|0.0元|63.0%| |        29.6%|73.3%|70.3%|        72.7%|61.5%|65.5%|        64.1%|
-|73|step-3☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|阶跃星辰|4.0元|62.4%| |        34.7%|76.1%|73.5%|        73.0%|68.5%|65.6%|        50.6%|
-|74|MiMo-V2-Flash-think☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|小米|0.0元|62.0%| |        43.0%|77.2%|77.7%|        74.7%|74.2%|56.0%|        48.0%|
-|75|gpt-5.4-nano-high(new)☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|openAI|8.75元|62.0%| |        39.1%|63.2%|66.8%|        69.0%|77.2%|48.7%|        63.1%|
-|76|kimi-k2-0905☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|月之暗面|16.0元|61.8%| |        44.3%|82.1%|77.6%|        82.3%|59.5%|53.7%|        59.8%|
-|77|MiMo-V2-Flash-0204(new)☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|小米|2.1元|61.8%| |        46.9%|72.0%|67.4%|        63.7%|63.8%|59.8%|        61.0%|
-|78|qwen-plus-2025-12-01☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|阿里巴巴|2.0元|61.7%| |        53.4%|76.5%|74.2%|        77.3%|66.5%|50.9%|        56.5%|
-|79|gpt-5.4(new)☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|openAI|105.0元|61.5%| |        46.4%|74.3%|75.3%|        68.7%|62.2%|62.7%|        53.5%|
-|80|gpt-5-mini-high☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|openAI|14.5元|61.3%| |        35.4%|56.6%|68.3%|        56.7%|79.8%|55.8%|        57.2%|
-|81|ERNIE-4.5-Turbo-32K☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|百度|3.2元|61.1%| |        59.1%|91.6%|85.8%|        81.5%|55.9%|59.6%|        44.2%|
-|82|ERNIE-4.5-300B-A47B☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|百度|8.0元|60.9%| |        58.2%|82.6%|78.9%|        73.2%|49.5%|71.5%|        45.6%|
-|83|gemini-2.5-flash☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|google|18.125元|60.8%| |        36.0%|72.1%|70.3%|        73.0%|67.5%|65.0%|        46.6%|
-|84|ERNIE-X1-Turbo-32K☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|百度|4.0元|60.8%| |        52.2%|82.8%|82.5%|        81.2%|55.2%|63.6%|        45.6%|
-|85|Hunyuan-A13B-Instruct☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|腾讯|4.0元|59.8%| |        52.1%|71.2%|69.4%|        72.3%|58.5%|65.7%|        46.9%|
-|86|Qwen3-30B-A3B-Instruct-2507☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|阿里巴巴|2.8元|59.2%| |        41.5%|73.6%|73.2%|        66.7%|64.4%|63.8%|        43.5%|
-|87|gpt-oss-120b☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|openAI|3.26元|59.1%| |        37.7%|58.0%|57.9%|        59.3%|76.0%|65.7%|        43.1%|
-|88|LongCat-Flash-Lite(new)☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|美团|0.0元|59.0%| |        47.6%|77.4%|73.0%|        71.3%|60.1%|47.5%|        58.8%|
-|89|MiMo-V2-Flash☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|小米|0.0元|57.9%| |        47.4%|73.5%|67.9%|        63.0%|64.2%|54.4%|        48.5%|
-|90|claude-4-sonnet-thinking☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|anthropic|108.75元|57.7%| |        41.7%|70.5%|72.2%|        65.0%|61.0%|68.6%|        56.2%|
-|91|gpt-5.1☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|openAI|71.0元|57.6%| |        35.7%|64.2%|67.4%|        52.0%|55.8%|59.4%|        61.1%|
-|92|gpt-5-nano-2025-08-07☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|openAI|2.9元|57.4%| |        29.6%|58.8%|58.4%|        52.3%|69.6%|64.0%|        48.4%|
-|93|qwen-flash-2025-07-28☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|阿里巴巴|1.5元|57.1%| |        43.0%|72.6%|74.5%|        69.0%|59.4%|62.8%|        39.1%|
-|94|Qwen3-14B☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|阿里巴巴|2.0元|56.9%| |        43.0%|75.6%|80.2%|        66.2%|54.3%|53.3%|        50.0%|
-|95|gpt-5.2☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|openAI|99.4元|56.9%| |        39.6%|72.9%|71.4%|        66.3%|54.7%|52.5%|        56.2%|
-|96|gpt-5-nano-high☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|openAI|2.9元|56.9%| |        33.9%|58.9%|57.5%|        54.0%|72.9%|52.7%|        52.4%|
-|97|Llama-4-Maverick-17B-128E-Instruct-FP8☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|meta|4.35元|56.7%| |        36.9%|74.4%|72.8%|        62.0%|54.0%|65.1%|        44.9%|
-|98|Qwen3-32B☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|阿里巴巴|4.0元|56.2%| |        46.6%|79.9%|79.7%|        69.3%|53.8%|56.4%|        42.1%|
-|99|GLM-4.5-Air-nothink☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|智谱AI|6.0元|55.8%| |        37.1%|63.5%|68.8%|        52.3%|46.8%|56.5%|        64.8%|
-|100|GLM-4.5-Flash-nothink☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|智谱AI|0.0元|55.7%| |        39.1%|65.2%|69.6%|        60.7%|46.0%|57.1%|        56.2%|
-|101|GLM-4.7-Flash☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|智谱AI|0.0元|55.5%| |        37.1%|62.4%|63.0%|        58.7%|55.3%|48.9%|        62.7%|
-|102|Qwen3-8B☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|阿里巴巴|0.0元|55.3%| |        35.0%|67.5%|72.4%|        66.8%|55.8%|57.8%|        45.9%|
-|103|qwen-turbo-think-2025-07-15☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|阿里巴巴|3.0元|55.3%| |        42.3%|70.5%|71.7%|        70.0%|58.6%|62.9%|        33.5%|
-|104|gemini-3.1-flash-lite-preview(new)☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|google|10.5元|54.9%| |        43.5%|75.6%|76.3%|        67.7%|59.5%|42.2%|        49.0%|
-|105|claude-haiku-4.5☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|anthropic|36.25元|54.5%| |        35.8%|63.1%|63.2%|        53.3%|53.0%|55.8%|        55.3%|
-|106|DeepSeek-R1-0528-Qwen3-8B☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|深度求索|0.0元|54.5%| |        35.7%|65.9%|67.4%|        58.5%|60.0%|56.3%|        43.9%|
-|107|mistral-large-2512☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|Mistral|10.68元|54.3%| |        44.2%|73.5%|74.4%|        69.0%|53.1%|53.7%|        42.0%|
-|108|gpt-oss-20b☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|openAI|1.16元|54.1%| |        34.1%|53.1%|60.8%|        59.7%|66.0%|59.3%|        40.0%|
-|109|gemma-4-31b-it(new)☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|google|2.8元|52.5%| |        38.2%|58.3%|63.6%|        65.7%|62.3%|57.3%|        32.7%|
-|110|Qwen3-32B-nothink☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|阿里巴巴|4.0元|52.4%| |        35.3%|71.6%|68.3%|        62.7%|48.8%|60.8%|        38.2%|
-|111|qwen-turbo-2025-07-15☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|阿里巴巴|0.6元|52.2%| |        41.4%|69.6%|70.8%|        61.3%|46.0%|59.8%|        40.2%|
-|112|gpt-5.4-mini(new)☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|openAI|31.5元|52.0%| |        36.2%|63.7%|66.9%|        50.3%|46.4%|61.3%|        45.3%|
-|113|Hunyuan-A13B-Instruct-nothink☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|腾讯|4.0元|51.5%| |        44.4%|65.9%|54.5%|        58.0%|43.8%|64.4%|        40.8%|
-|114|Qwen3-4B☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|阿里巴巴|3.0元|51.2%| |        33.1%|64.8%|70.6%|        53.0%|51.2%|56.0%|        40.8%|
-|115|ERNIE-4.5-21B-A3B☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|百度|2.0元|51.1%| |        45.5%|73.6%|67.9%|        58.3%|38.5%|63.4%|        38.4%|
-|116|gemma-4-26b-a4b-it(new)☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|google|2.8元|50.3%| |        37.8%|62.1%|64.0%|        62.0%|57.5%|52.1%|        33.3%|
-|117|Baichuan4-Turbo☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|百川智能|15.0元|48.4%| |        39.2%|74.3%|70.1%|        56.5%|43.9%|56.7%|        29.4%|
-|118|Qwen3-14B-nothink☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|阿里巴巴|2.0元|47.9%| |        26.9%|67.7%|68.2%|        63.0%|42.2%|54.6%|        35.5%|
-|119|grok-4-1-fast-non-reasoning☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|XAI|3.55元|47.5%| |        25.9%|51.4%|51.5%|        50.7%|45.1%|44.0%|        57.0%|
-|120|mistral-medium-2508☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|Mistral|14.5元|47.0%| |        36.4%|68.0%|73.1%|        64.3%|37.8%|52.0%|        33.9%|
-|121|gemini-2.5-flash-lite☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|google|2.9元|46.8%| |        30.9%|54.2%|57.8%|        50.7%|48.6%|60.2%|        29.6%|
-|122|Llama-4-Scout-17B-16E-Instruct☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|meta|2.175元|46.7%| |        36.0%|66.3%|62.6%|        44.7%|46.4%|61.1%|        19.2%|
-|123|gpt-5.4-nano(new)☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|openAI|8.75元|46.0%| |        32.4%|49.5%|56.3%|        44.7%|47.2%|50.8%|        40.4%|
-|124|Qwen3-8B-nothink☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|阿里巴巴|0.0元|45.2%| |        20.3%|62.1%|64.2%|        45.0%|36.4%|54.5%|        41.7%|
-|125|Ministral-3-14B-Instruct-2512☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|Mistral|1.424元|44.9%| |        30.0%|55.8%|59.1%|        41.7%|46.8%|42.5%|        43.0%|
-|126|Mistral-Small-3.2-24B-Instruct-2506☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|Mistral|2.175元|42.9%| |        31.0%|54.1%|54.5%|        60.3%|43.2%|43.7%|        32.8%|
-|127|Qwen3-1.7B☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|阿里巴巴|3.0元|42.8%| |        30.5%|51.7%|59.1%|        46.0%|45.3%|49.0%|        28.3%|
-|128|GLM-4-9B-0414☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|智谱AI|0.0元|41.8%| |        30.8%|58.4%|64.1%|        51.5%|31.2%|52.3%|        28.9%|
-|129|Ministral-3-8B-Instruct-2512☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|Mistral|1.068元|41.7%| |        28.1%|52.4%|56.4%|        36.0%|44.0%|40.8%|        38.5%|
-|130|Baichuan4-Air☛[去体验](https://nonelinear.com/static/modelcompare.html?type=proprietary)|百川智能|0.98元|41.6%| |        36.4%|55.3%|57.4%|        39.3%|42.1%|53.4%|        22.4%|
-|131|Qwen3-4B-nothink☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|阿里巴巴|1.2元|41.2%| |        30.4%|54.6%|63.4%|        39.0%|39.5%|54.4%|        23.3%|
-|132|gemma-3-27b-it☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|google|1.45元|39.0%| |        29.6%|50.6%|56.4%|        39.7%|43.4%|49.1%|        17.6%|
-|133|Ministral-3-3B-Instruct-2512☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|Mistral|0.712元|38.6%| |        30.2%|41.6%|46.4%|        37.0%|41.9%|38.2%|        35.2%|
-|134|gemma-3-12b-it☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|google|0.725元|38.4%| |        22.1%|44.6%|47.7%|        42.5%|45.0%|47.6%|        20.5%|
-|135|Qwen3-1.7B-nothink☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|阿里巴巴|1.2元|35.1%| |        27.6%|41.3%|49.9%|        22.0%|35.0%|48.6%|        22.8%|
-|136|Qwen3-0.6B☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|阿里巴巴|3.0元|34.0%| |        21.0%|34.8%|40.5%|        30.7%|31.8%|49.6%|        23.3%|
-|137|gemma-3-4b-it☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|google|0.29元|32.0%| |        28.1%|33.4%|39.4%|        28.5%|34.5%|41.8%|        19.7%|
-|138|Qwen3-0.6B-nothink☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|阿里巴巴|1.2元|29.4%| |        26.9%|29.5%|35.5%|        27.0%|23.4%|44.1%|        19.6%|
-|139|ERNIE-4.5-0.3B☛[去体验](https://nonelinear.com/static/modelcompare.html?type=open-source)|百度|0.4元|24.0%| |        14.7%|23.6%|27.0%|        21.3%|18.9%|35.5%|        20.5%|
+|排名|大模型|机构|输出价格|总分| |教育|医疗与心理健康|金融|法律与行政公务|推理与数学计算|语言与指令遵从|agent与工具调用|coding|
+|---|-----|---|-------|---|-|---|-----------|----|-----------|------------|-----------|-------------|------|
+|1|gemini-3.1-pro-preview(new)|google|85.2元|        75.2%| |        68.6%|        88.7%|        83.6%|        83.7%|        85.1%|        72.4%|        58.7%|        74.2%|
+|2|qwen3.5-plus(new)|阿里巴巴|4.8元|        73.3%| |        60.9%|        84.8%|        83.4%|        83.0%|        80.4%|        65.5%|        73.7%|        65.5%|
+|3|Doubao-Seed-2.0-pro(new)|豆包|16.0元|        72.8%| |        65.9%|        90.5%|        87.7%|        84.7%|        78.9%|        76.0%|        67.5%|        52.6%|
+|4|gpt-5.4-high(new)|openAI|105.0元|        72.6%| |        59.9%|        85.3%|        85.1%|        81.5%|        78.2%|        72.3%|        60.3%|        70.5%|
+|5|gemini-3-flash-preview|google|21.3元|        71.2%| |        63.5%|        87.2%|        84.0%|        83.3%|        83.4%|        72.2%|        48.6%|        66.0%|
+|6|Qwen3.5-122B-A10B(new)|阿里巴巴|6.4元|        70.9%| |        59.1%|        84.0%|        83.3%|        84.7%|        85.5%|        66.2%|        65.0%|        55.1%|
+|7|qwen3.6-plus(new)|阿里巴巴|12.0元|        70.7%| |        60.0%|        83.8%|        77.1%|        81.3%|        74.6%|        70.3%|        64.7%|        64.8%|
+|8|GLM-5.1(new)|智谱AI|24.0元|        70.7%| |        61.1%|        86.6%|        85.2%|        81.7%|        82.8%|        62.2%|        71.7%|        52.1%|
+|9|Qwen3.5-27B(new)|阿里巴巴|4.8元|        70.6%| |        57.9%|        79.0%|        75.8%|        83.7%|        83.2%|        67.6%|        63.9%|        61.6%|
+|10|Doubao-Seed-2.0-lite(new)|豆包|3.6元|        70.5%| |        64.9%|        89.4%|        84.2%|        85.7%|        85.8%|        64.6%|        62.0%|        51.9%|
+|11|claude-opus-4.6|anthropic|175.0元|        70.0%| |        63.0%|        81.5%|        79.0%|        82.7%|        71.8%|        63.0%|        69.1%|        65.2%|
+|12|Doubao-Seed-2.0-mini(new)|豆包|2.0元|        69.3%| |        63.4%|        85.5%|        79.7%|        88.7%|        78.8%|        64.0%|        62.8%|        54.6%|
+|13|GLM-5-Turbo(new)|智谱AI|22.0元|        69.3%| |        55.9%|        84.4%|        83.9%|        80.3%|        74.8%|        69.3%|        64.5%|        57.0%|
+|14|qwen3-max-think-2026-01-23|阿里巴巴|10.0元|        69.3%| |        54.4%|        83.6%|        85.6%|        80.3%|        79.9%|        65.5%|        68.6%|        51.6%|
+|15|GLM-5(new)|智谱AI|18.0元|        69.0%| |        59.0%|        85.7%|        83.2%|        79.3%|        73.6%|        67.6%|        64.2%|        57.1%|
+|16|Kimi-K2.5-Thinking|月之暗面|21.0元|        68.9%| |        58.3%|        87.7%|        87.6%|        80.3%|        78.0%|        72.1%|        54.6%|        54.5%|
+|17|qwen3.5-flash(new)|阿里巴巴|2.0元|        68.9%| |        56.5%|        80.7%|        77.1%|        80.3%|        79.0%|        66.5%|        62.9%|        58.9%|
+|18|hunyuan-2.0-thinking-20251109|腾讯|4.0元|        68.6%| |        63.1%|        88.4%|        84.8%|        81.3%|        77.9%|        63.8%|        64.3%|        50.0%|
+|19|Qwen3.6-35B-A3B(new)|阿里巴巴|10.8元|        68.1%| |        56.6%|        82.9%|        72.1%|        82.7%|        74.8%|        68.6%|        62.7%|        56.6%|
+|20|GLM-4.7|智谱AI|14.0元|        67.3%| |        52.0%|        83.6%|        84.2%|        80.3%|        72.7%|        69.3%|        68.1%|        46.1%|
+|21|gpt-5.2-high|openAI|99.4元|        67.3%| |        48.3%|        77.9%|        76.4%|        76.0%|        84.8%|        63.8%|        50.8%|        65.8%|
+|22|ERNIE-5.0|百度|24.0元|        67.2%| |        55.7%|        80.3%|        78.8%|        81.7%|        78.7%|        68.0%|        61.9%|        48.1%|
+|23|gpt-5.1-high|openAI|71.0元|        67.1%| |        48.5%|        77.6%|        72.6%|        75.0%|        84.7%|        67.0%|        59.2%|        55.5%|
+|24|gpt-5.1-medium|openAI|71.0元|        67.0%| |        47.7%|        77.3%|        75.4%|        71.3%|        83.5%|        64.5%|        61.7%|        56.5%|
+|25|DeepSeek-V3.2-Think|深度求索|3.0元|        66.9%| |        53.9%|        84.2%|        84.1%|        84.3%|        77.6%|        74.7%|        52.9%|        45.6%|
+|26|gpt-5-2025-08-07|openAI|72.5元|        66.8%| |        51.0%|        75.6%|        71.3%|        73.7%|        74.7%|        75.6%|        57.8%|        57.1%|
+|27|gemini-2.5-pro|google|72.5元|        66.6%| |        49.1%|        77.8%|        78.5%|        78.8%|        72.2%|        70.6%|        61.0%|        54.6%|
+|28|claude-sonnet-4.5-thinking|anthropic|108.75元|        66.2%| |        54.9%|        79.1%|        78.0%|        81.0%|        78.0%|        64.2%|        58.4%|        52.1%|
+|29|MiMo-V2-Omni(new)|小米|14.0元|        66.2%| |        56.2%|        77.7%|        71.7%|        83.3%|        73.3%|        62.0%|        66.0%|        53.1%|
+|30|doubao-seed-1-8-251215|豆包|8.0元|        66.0%| |        61.1%|        88.5%|        86.0%|        84.0%|        74.4%|        67.1%|        63.1%|        35.5%|
+|31|MiMo-V2-Pro(new)|小米|21.0元|        65.8%| |        48.9%|        80.5%|        80.1%|        70.7%|        71.9%|        64.5%|        63.3%|        56.0%|
+|32|gpt-5.4-mini-high(new)|openAI|31.5元|        65.7%| |        42.3%|        80.4%|        70.8%|        73.3%|        76.3%|        68.9%|        58.4%|        57.6%|
+|33|MiniMax-M2.7(new)|minimax|8.4元|        65.1%| |        43.8%|        72.2%|        70.2%|        74.7%|        70.9%|        59.6%|        75.8%|        54.0%|
+|34|Kimi-K2-Thinking|月之暗面|16.0元|        65.0%| |        45.6%|        77.7%|        71.9%|        72.3%|        73.7%|        63.4%|        68.0%|        51.9%|
+|35|gpt-5.3-chat(new)|openAI|98.0元|        64.9%| |        49.0%|        79.0%|        74.1%|        74.0%|        78.1%|        69.9%|        65.9%|        38.9%|
+|36|qwen3-max-2026-01-23|阿里巴巴|10.0元|        64.8%| |        50.8%|        80.7%|        83.9%|        80.7%|        74.6%|        60.0%|        59.7%|        49.1%|
+|37|MiMo-V2-Flash-think-0204(new)|小米|2.1元|        64.5%| |        49.7%|        79.2%|        76.2%|        80.7%|        71.7%|        66.5%|        62.3%|        45.9%|
+|38|ERNIE-5.0-Thinking-Preview|百度|24.0元|        64.5%| |        50.4%|        76.0%|        74.1%|        82.3%|        74.0%|        65.9%|        58.4%|        49.0%|
+|39|qwen3-max-preview-think|阿里巴巴|24.0元|        64.2%| |        46.3%|        81.3%|        80.4%|        74.0%|        75.0%|        58.1%|        68.5%|        44.4%|
+|40|claude-opus-4.5|anthropic|178.0元|        64.2%| |        60.6%|        82.8%|        81.8%|        82.3%|        67.9%|        62.3%|        49.1%|        55.6%|
+|41|step-3.5-flash|阶跃星辰|2.1元|        64.0%| |        49.4%|        79.1%|        71.3%|        78.3%|        75.2%|        53.6%|        57.1%|        60.9%|
+|42|MiniMax-M2.5(new)|minimax|8.4元|        63.9%| |        42.3%|        73.7%|        71.2%|        77.0%|        71.2%|        59.0%|        66.5%|        55.0%|
+|43|hunyuan-2.0-instruct-20251111|腾讯|2.0元|        63.9%| |        58.8%|        84.3%|        76.4%|        81.7%|        67.1%|        57.8%|        64.5%|        46.4%|
+|44|qwen3-max-2025-09-23|阿里巴巴|24.0元|        63.5%| |        51.0%|        80.1%|        81.4%|        78.0%|        72.6%|        56.7%|        63.7%|        45.5%|
+|45|gpt-5.2-medium|openAI|99.4元|        63.4%| |        46.2%|        77.0%|        74.6%|        71.0%|        78.0%|        60.2%|        50.9%|        58.1%|
+|46|MiniMax-M2.1|minimax|8.4元|        63.2%| |        40.0%|        70.5%|        76.7%|        74.3%|        70.2%|        62.5%|        55.9%|        60.5%|
+|47|DeepSeek-V3.1-Think|深度求索|12.0元|        63.2%| |        50.4%|        80.5%|        82.8%|        82.0%|        71.2%|        71.7%|        52.3%|        39.1%|
+|48|LongCat-Flash-Thinking-2601|美团|0.0元|        62.7%| |        49.7%|        75.7%|        80.9%|        82.7%|        73.6%|        60.7%|        66.3%|        34.1%|
+|49|hunyuan-turbos-20250926|腾讯|2.0元|        62.2%| |        55.2%|        86.1%|        80.1%|        82.3%|        64.9%|        71.7%|        48.3%|        40.4%|
+|50|qwen3-max-preview|阿里巴巴|24.0元|        62.2%| |        54.2%|        82.8%|        85.1%|        77.0%|        71.0%|        71.9%|        45.8%|        38.4%|
+|51|qwen3-235b-a22b-instruct-2507|阿里巴巴|8.0元|        62.1%| |        51.0%|        82.7%|        81.7%|        79.3%|        66.6%|        70.0%|        57.1%|        35.1%|
+|52|o4-mini|openAI|31.9元|        62.1%| |        42.1%|        60.4%|        66.5%|        63.3%|        87.0%|        73.2%|        60.6%|        34.1%|
+|53|DeepSeek-V3.2|深度求索|3.0元|        61.9%| |        53.0%|        82.6%|        81.8%|        82.7%|        62.1%|        66.8%|        50.6%|        45.9%|
+|54|claude-sonnet-4.5(new)|anthropic|108.75元|        50.2%| |        27.5%|        57.1%|        62.9%|        45.0%|        51.6%|        42.4%|        59.3%|        50.6%|
+|55|doubao-seed-1-6-lite-251015|豆包|2.4元|        60.9%| |        60.2%|        86.7%|        80.8%|        84.7%|        71.2%|        70.6%|        41.3%|        31.0%|
+|56|hunyuan-t1-20250711|腾讯|4.0元|        60.8%| |        58.9%|        82.9%|        83.6%|        76.3%|        72.8%|        72.9%|        46.8%|        25.6%|
+|57|claude-haiku-4.5-thinking|anthropic|36.25元|        60.8%| |        40.2%|        70.0%|        70.1%|        66.7%|        78.9%|        54.9%|        58.6%|        49.0%|
+|58|gpt-5.4(new)|openAI|105.0元|        60.7%| |        46.4%|        74.3%|        75.3%|        68.7%|        62.2%|        62.7%|        53.5%|        54.9%|
+|59|qwen3-235b-a22b-thinking-2507|阿里巴巴|10.0元|        60.5%| |        57.2%|        79.5%|        79.6%|        78.3%|        72.6%|        66.6%|        47.4%|        33.0%|
+|60|gpt-5.4-nano-high(new)|openAI|8.75元|        60.5%| |        39.1%|        63.2%|        66.8%|        69.0%|        77.2%|        48.7%|        63.1%|        54.9%|
+|61|DeepSeek-R1-0528|深度求索|16.0元|        60.5%| |        42.5%|        80.7%|        79.0%|        81.0%|        74.3%|        72.9%|        44.7%|        32.5%|
+|62|claude-4-sonnet|anthropic|108.75元|        60.4%| |        46.4%|        70.7%|        71.1%|        70.0%|        69.1%|        78.5%|        56.2%|        31.0%|
+|63|MiMo-V2-Flash-think|小米|0.0元|        59.9%| |        43.0%|        77.2%|        77.7%|        74.7%|        74.2%|        56.0%|        48.0%|        47.5%|
+|64|qwen-plus-think-2025-12-01|阿里巴巴|8.0元|        59.4%| |        54.4%|        80.5%|        80.6%|        75.3%|        72.4%|        54.4%|        54.8%|        33.4%|
+|65|Seed-OSS-36B-Instruct|豆包|4.0元|        59.2%| |        59.8%|        82.5%|        75.9%|        81.0%|        77.3%|        69.8%|        27.1%|        35.9%|
+|66|DeepSeek-V3.1|深度求索|12.0元|        59.1%| |        48.4%|        79.1%|        78.5%|        74.7%|        61.7%|        72.3%|        51.2%|        32.5%|
+|67|Qwen3-30B-A3B-Thinking-2507|阿里巴巴|2.8元|        59.1%| |        50.0%|        70.6%|        71.8%|        75.7%|        65.1%|        66.8%|        60.5%|        30.5%|
+|68|GLM-4.5-Air|智谱AI|6.0元|        58.9%| |        35.0%|        73.4%|        71.3%|        69.7%|        62.8%|        64.5%|        73.0%|        29.4%|
+|69|doubao-seed-1-6-251015|豆包|8.0元|        58.8%| |        63.3%|        87.6%|        80.6%|        85.7%|        65.7%|        75.8%|        28.6%|        29.9%|
+|70|qwen3-next-80b-a3b-instruct|阿里巴巴|4.0元|        58.8%| |        49.7%|        80.8%|        78.7%|        80.7%|        60.2%|        69.0%|        54.6%|        27.9%|
+|71|gpt-5-mini-2025-08-07|openAI|14.5元|        58.6%| |        40.0%|        55.8%|        65.3%|        60.0%|        80.2%|        70.4%|        49.7%|        40.1%|
+|72|qwen3-next-80b-a3b-thinking|阿里巴巴|4.0元|        58.5%| |        54.0%|        78.8%|        76.0%|        76.3%|        62.5%|        57.1%|        63.4%|        28.6%|
+|73|GLM-4.5-Flash|智谱AI|0.0元|        58.4%| |        29.6%|        73.3%|        70.3%|        72.7%|        61.5%|        65.5%|        64.1%|        37.1%|
+|74|ERNIE-X1.1-Preview|百度|4.0元|        58.3%| |        58.8%|        77.6%|        77.3%|        73.0%|        63.5%|        64.2%|        56.6%|        26.1%|
+|75|grok-4-1-fast-reasoning|XAI|3.55元|        58.3%| |        39.6%|        70.3%|        70.6%|        65.3%|        78.1%|        52.8%|        65.4%|        31.4%|
+|76|MiMo-V2-Flash-0204(new)|小米|2.1元|        58.1%| |        46.9%|        72.0%|        67.4%|        63.7%|        63.8%|        59.8%|        61.0%|        40.4%|
+|77|gpt-5-mini-high|openAI|14.5元|        57.7%| |        35.4%|        56.6%|        68.3%|        56.7%|        79.8%|        55.8%|        57.2%|        43.9%|
+|78|qwen-plus-2025-12-01|阿里巴巴|2.0元|        57.4%| |        53.4%|        76.5%|        74.2%|        77.3%|        66.5%|        50.9%|        56.5%|        33.4%|
+|79|qwen-flash-think-2025-07-28|阿里巴巴|1.5元|        57.0%| |        46.7%|        70.8%|        71.5%|        72.7%|        64.3%|        68.0%|        57.8%|        23.6%|
+|80|gemini-2.5-flash|google|18.125元|        57.0%| |        36.0%|        72.1%|        70.3%|        73.0%|        68.2%|        65.0%|        46.6%|        38.4%|
+|81|kimi-k2-0905|月之暗面|16.0元|        56.6%| |        44.3%|        82.1%|        77.6%|        82.3%|        59.5%|        53.7%|        59.8%|        27.9%|
+|82|gpt-5.2|openAI|99.4元|        56.4%| |        39.6%|        72.9%|        71.4%|        66.3%|        54.7%|        52.5%|        56.2%|        51.6%|
+|83|ERNIE-4.5-Turbo-32K|百度|3.2元|        55.8%| |        59.1%|        91.6%|        85.8%|        81.5%|        55.8%|        59.6%|        44.2%|        23.1%|
+|84|MiMo-V2-Flash|小米|0.0元|        55.8%| |        47.4%|        73.5%|        67.9%|        63.0%|        64.2%|        54.4%|        48.5%|        43.6%|
+|85|LongCat-Flash-Lite(new)|美团|0.0元|        55.1%| |        47.6%|        77.4%|        73.0%|        71.3%|        60.1%|        47.5%|        58.8%|        33.4%|
+|86|gpt-oss-120b|openAI|3.26元|        55.1%| |        37.7%|        58.0%|        57.9%|        59.3%|        76.0%|        65.7%|        43.1%|        39.0%|
+|87|ERNIE-X1-Turbo-32K|百度|4.0元|        55.0%| |        52.2%|        82.8%|        82.5%|        81.2%|        55.3%|        63.6%|        45.6%|        21.9%|
+|88|claude-4-sonnet-thinking|anthropic|108.75元|        54.1%| |        39.9%|        70.5%|        72.2%|        65.0%|        52.7%|        60.6%|        54.5%|        35.2%|
+|89|gpt-5-nano-high|openAI|2.9元|        53.5%| |        33.9%|        58.9%|        57.5%|        54.0%|        72.9%|        52.7%|        52.4%|        40.0%|
+|90|gpt-5-nano-2025-08-07|openAI|2.9元|        52.9%| |        29.6%|        58.8%|        58.4%|        52.3%|        69.6%|        64.0%|        48.4%|        34.6%|
+|91|gemini-3.1-flash-lite-preview(new)|google|10.5元|        52.9%| |        43.5%|        75.6%|        76.3%|        67.7%|        59.5%|        42.2%|        49.0%|        38.6%|
+|92|Qwen3-30B-A3B-Instruct-2507|阿里巴巴|2.8元|        52.5%| |        41.5%|        73.6%|        73.2%|        66.7%|        64.4%|        63.8%|        43.5%|        19.1%|
+|93|claude-haiku-4.5|anthropic|36.25元|        52.2%| |        35.8%|        63.1%|        63.2%|        53.3%|        53.0%|        55.8%|        55.3%|        41.5%|
+|94|Qwen3-14B|阿里巴巴|2.0元|        51.8%| |        43.0%|        75.6%|        80.2%|        66.2%|        55.5%|        53.3%|        50.0%|        23.9%|
+|95|qwen-flash-2025-07-28|阿里巴巴|1.5元|        51.8%| |        43.0%|        72.6%|        74.5%|        69.0%|        59.4%|        62.8%|        39.1%|        23.6%|
+|96|gemma-4-31b-it(new)|google|2.8元|        51.8%| |        38.2%|        58.3%|        63.6%|        65.7%|        62.3%|        57.3%|        32.7%|        46.9%|
+|97|gpt-5.1|openAI|71.0元|        51.3%| |        35.7%|        64.2%|        67.4%|        52.0%|        55.8%|        59.4%|        61.1%|        22.6%|
+|98|Qwen3-32B|阿里巴巴|4.0元|        51.1%| |        46.6%|        79.9%|        79.7%|        69.3%|        53.8%|        56.4%|        42.1%|        21.5%|
+|99|gpt-5.4-mini(new)|openAI|31.5元|        50.9%| |        36.2%|        63.7%|        66.9%|        50.3%|        46.4%|        61.3%|        45.3%|        44.9%|
+|100|gemma-4-26b-a4b-it(new)|google|2.8元|        50.3%| |        37.8%|        62.1%|        64.0%|        62.0%|        57.5%|        52.1%|        33.3%|        48.0%|
+|101|qwen-turbo-think-2025-07-15|阿里巴巴|3.0元|        50.1%| |        42.3%|        70.5%|        71.7%|        70.0%|        58.6%|        62.9%|        33.5%|        22.0%|
+|102|GLM-4.5-Flash-nothink|智谱AI|0.0元|        50.0%| |        39.1%|        65.2%|        69.6%|        60.7%|        46.0%|        57.1%|        60.2%|        21.9%|
+|103|GLM-4.7-Flash|智谱AI|0.0元|        49.8%| |        37.1%|        62.4%|        63.0%|        58.7%|        55.3%|        48.9%|        62.7%|        22.9%|
+|104|gpt-oss-20b|openAI|1.16元|        49.7%| |        34.1%|        53.1%|        60.8%|        59.7%|        66.0%|        59.3%|        40.0%|        29.6%|
+|105|mistral-large-2512|Mistral|10.68元|        49.5%| |        44.2%|        73.5%|        74.4%|        69.0%|        53.1%|        53.7%|        42.0%|        22.4%|
+|106|GLM-4.5-Air-nothink|智谱AI|6.0元|        49.4%| |        37.1%|        63.5%|        68.8%|        52.3%|        46.8%|        56.5%|        64.8%|        19.4%|
+|107|Qwen3-8B|阿里巴巴|0.0元|        47.7%| |        35.0%|        67.5%|        72.4%|        66.8%|        55.8%|        57.8%|        45.9%|        9.5%|
+|108|qwen-turbo-2025-07-15|阿里巴巴|0.6元|        46.6%| |        41.4%|        69.6%|        70.8%|        61.3%|        45.5%|        59.8%|        40.2%|        16.6%|
+|109|Qwen3-32B-nothink|阿里巴巴|4.0元|        46.0%| |        35.3%|        71.6%|        68.3%|        62.7%|        49.0%|        60.8%|        38.2%|        13.2%|
+|110|Qwen3-4B|阿里巴巴|3.0元|        45.9%| |        33.1%|        64.8%|        70.6%|        53.0%|        51.5%|        56.0%|        40.8%|        19.0%|
+|111|gpt-5.4-nano(new)|openAI|8.75元|        43.5%| |        32.4%|        49.5%|        56.3%|        44.7%|        47.2%|        50.8%|        40.4%|        31.9%|
+|112|gemini-2.5-flash-lite|google|2.9元|        42.7%| |        30.9%|        54.2%|        57.8%|        50.7%|        48.6%|        60.2%|        29.6%|        22.6%|
+|113|Qwen3-14B-nothink|阿里巴巴|2.0元|        42.6%| |        26.9%|        67.7%|        68.2%|        63.0%|        42.7%|        54.6%|        35.5%|        14.2%|
+|114|grok-4-1-fast-non-reasoning|XAI|3.55元|        42.6%| |        25.9%|        51.4%|        51.5%|        50.7%|        45.1%|        44.0%|        57.0%|        20.5%|
+|115|Baichuan4-Turbo|百川智能|15.0元|        42.4%| |        39.2%|        74.3%|        70.1%|        56.5%|        44.0%|        56.7%|        29.4%|        9.0%|
+|116|Llama-4-Scout-17B-16E-Instruct|meta|2.175元|        41.1%| |        37.6%|        65.7%|        64.4%|        33.3%|        50.5%|        65.9%|        19.2%|        13.2%|
+|117|Ministral-3-14B-Instruct-2512|Mistral|1.424元|        39.4%| |        30.0%|        55.8%|        59.1%|        41.7%|        46.8%|        42.5%|        43.0%|        13.0%|
+|118|Qwen3-8B-nothink|阿里巴巴|0.0元|        39.3%| |        30.3%|        60.4%|        67.7%|        52.7%|        35.4%|        48.6%|        41.7%|        8.5%|
+|119|Ministral-3-8B-Instruct-2512|Mistral|1.068元|        37.0%| |        28.1%|        52.4%|        56.4%|        36.0%|        44.0%|        40.8%|        38.5%|        14.2%|
+|120|GLM-4-9B-0414|智谱AI|0.0元|        36.3%| |        30.8%|        58.4%|        64.1%|        51.5%|        32.0%|        52.3%|        28.9%|        6.5%|
+|121|Qwen3-4B-nothink|阿里巴巴|1.2元|        36.3%| |        30.4%|        54.6%|        63.4%|        39.0%|        38.7%|        54.4%|        23.3%|        10.5%|
+|122|Ministral-3-3B-Instruct-2512|Mistral|0.712元|        33.6%| |        30.2%|        41.6%|        46.4%|        37.0%|        41.9%|        38.2%|        35.2%|        10.0%|

@@ -1,4 +1,11 @@
 ## 最近更新
+- [2026/4/18] v5.10版本
+  - coding能力归入通用能力，计入总分，排名有所变动
+  - 新增大模型：Qwen3.6-35B-A3B
+  - 删除陈旧的模型：Llama-4-Maverick-17B-128E-Instruct-FP8、DeepSeek-R1-0528-Qwen3-8B、ERNIE-4.5-0.3B、
+ERNIE-4.5-21B-A3B、ERNIE-4.5-300B-A47B、Hunyuan-A13B-Instruct、Hunyuan-A13B-Instruct-nothink、step-3、
+mistral-medium-2508、Mistral-Small-3.2-24B-Instruct-2506、Baichuan4-Air、gemma-3-27b-it、
+gemma-3-4b-it、gemma-3-12b-it、Qwen3-1.7B、Qwen3-0.6B、Qwen3-0.6B-nothink、Qwen3-1.7B-nothink
 - [2026/4/15] v5.9版本
   - coding排行榜新增[terminal bench 2.0榜单](#92-Terminal-Bench-20)
   - 首次推出[coding排行总榜](#9coding排行榜) 
