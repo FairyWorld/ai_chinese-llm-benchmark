@@ -983,8 +983,7 @@ BFCL-V3是加州大学伯克利分校发布的工具调用评测集，首创多�
 
 
 ## 9、coding排行榜
-评估大模型编程能力，暂时不计入总分。
-<br>完整排行榜见[coding](leaderboard/coding.md)<br>
+评估大模型编程能力。完整排行榜见[coding](leaderboard/coding.md)<br>
 
 ### 9.1 livecodebench
 [LiveCodeBench](https://github.com/LiveCodeBench/LiveCodeBench) 为大型语言模型（LLM）的编程能力提供全面且无数据污染的评估。具体而言，LiveCodeBench 持续从三大竞赛平台——LeetCode、AtCoder 和 CodeForces——的赛事中随时间推移不断收集新题目。
