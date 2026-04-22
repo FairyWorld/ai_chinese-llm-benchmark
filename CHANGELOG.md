@@ -1,6 +1,7 @@
 ## 最近更新
 - [2026/4/21] v5.10.1版本
-  - 新增大模型：qwen3.6-max-preview
+  - 新增大模型：qwen3.6-max-preview、kimi-k2.6
+  - 更新模型：更新kimi-k2.5评测结果（修复reasoning_content未传入tool call的调用错误），分数及排名有所变化
 - [2026/4/18] v5.10版本
   - coding能力归入通用能力，计入总分，排名有所变动
   - 新增大模型：Qwen3.6-35B-A3B
