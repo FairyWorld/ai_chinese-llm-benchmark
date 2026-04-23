@@ -59,6 +59,8 @@
 - [Cite Us](#如何引用-ReLE-评测Cite-Us)
 
 # 最近评测更新
+- [2026/4/23] v5.10.2版本
+  - 新增大模型：mimo-v2.5、mimo-v2.5-pro
 - [2026/4/21] v5.10.1版本
   - 新增大模型：qwen3.6-max-preview、kimi-k2.6
   - 更新模型：更新kimi-k2.5评测结果（修复reasoning_content未传入tool call的调用错误），分数及排名有所变化
