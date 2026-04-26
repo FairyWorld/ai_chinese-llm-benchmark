@@ -1,6 +1,6 @@
 ## 最近更新
 - [2026/4/25] v5.10.3版本
-  - 新增大模型：deepseek-v4-flash、deepseek-v4-pro
+  - 新增大模型：deepseek-v4-flash、deepseek-v4-pro、gpt-5.5
 - [2026/4/23] v5.10.2版本
   - 新增大模型：mimo-v2.5、mimo-v2.5-pro
 - [2026/4/21] v5.10.1版本
