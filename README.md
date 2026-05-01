@@ -59,6 +59,8 @@
 - [Cite Us](#如何引用-ReLE-评测Cite-Us)
 
 # 最近评测更新
+- [2026/5/1] v5.10.4版本
+  - 新增大模型：qwen3.6-27b
 - [2026/4/25] v5.10.3版本
   - 新增大模型：deepseek-v4-flash、deepseek-v4-pro、gpt-5.5
 - [2026/4/23] v5.10.2版本
@@ -142,12 +144,12 @@ qwen-plus-2025-07-28、qwen-plus-think-2025-07-28、grok-3-mini、gemini-3-pro-p
 
 # 🚀 大模型统一网关
 隆重推出 一站式 AI 模型超市 🛒，提供当下最全的大模型，让您永远快人一步。
-- 🌐 全球模型，一网打尽：GPT-5.1、Gemini-3-Pro、Claude-4.5、DeepSeek-v3.2、Kimi-k2……
+- 🌐 全球模型，一网打尽：GPT-5.5、Gemini-3.1-Pro、Claude-4.7、DeepSeek-v4、Kimi-k2.5……
 - ⚖️ 智能负载与高并发：我们聚合了多家顶级供应商，通过智能路由实现自动负载均衡。您从此可以告别烦人的 Rate Limit 报错，轻松应对任何流量洪峰！
 - 🔀 自动故障切换：单一供应商的 API 临时“抽风”？没关系！我们的系统会毫秒级无感切换到健康的备用渠道，确保您的服务 99.9999% 高可用，让您的用户远离“服务不可用”的尴尬。
 - 🛡️在线监控与智能选型：无缝衔接在线效果监测工具，打通模型选型评测闭环。用真实数据说话，助您轻松找到性能最佳、性价比最高的模型方案。
 [如何接入在线效果监测](https://nonelinear.com/static/online-eval.html)，[如何接入模型选型评测](https://nonelinear.com/static/task-create.html)
-- 💰 **限时9折**，超高性价比！☛[查看所有模型及价格](https://nonelinear.com/static/models.html)
+- 💰 超高性价比！☛[查看所有模型及价格](https://nonelinear.com/static/models.html)
 ```
 from openai import OpenAI
 base_url = "https://api.nonelinear.com/v1"
