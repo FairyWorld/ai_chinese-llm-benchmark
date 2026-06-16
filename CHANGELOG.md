@@ -2,7 +2,7 @@
 - [2026/6/16] v5.10.10版本
   - 新增大模型：kimi-k2.7-code
 - [2026/6/2] v5.10.9版本
-  - 新增大模型：MiniMax-M3、qwen3.7-plu、step-3.7-flash、claude-opus-4.8-thinking
+  - 新增大模型：MiniMax-M3、qwen3.7-plus、step-3.7-flash、claude-opus-4.8-thinking
 - [2026/5/30] v5.10.8版本
   - 新增大模型：claude-opus-4.8
 - [2026/5/23] v5.10.7版本
