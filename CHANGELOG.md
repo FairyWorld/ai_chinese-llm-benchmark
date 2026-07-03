@@ -1,4 +1,6 @@
 ## 最近更新
+- [2026/7/2] v5.10.12版本
+  - 新增大模型：claude-sonnet-5-thinking
 - [2026/6/27] v5.10.12版本
   - 新增大模型：doubao-seed-2-1-pro-260628、doubao-seed-2-1-turbo-260628、doubao-seed-evolving
 - [2026/6/18] v5.10.11版本
