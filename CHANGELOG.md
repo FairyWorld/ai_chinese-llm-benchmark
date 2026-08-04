@@ -1,4 +1,13 @@
 ## 最近更新
+- [2026/8/4] v5.10.17版本
+  - 新增大模型：qwen3.8-max
+  - 删除陈旧的模型：Baichuan4-Turbo、Llama-4-Scout-17B-16E-Instruct、GLM-4-9B-0414、
+  Qwen3-32B、Qwen3-14B、Qwen3-8B、Qwen3-4B、o4-mini、DeepSeek-R1-0528、ERNIE-4.5-Turbo-32K、
+  ERNIE-X1-Turbo-32K、claude-4-sonnet、claude-4-sonnet-thinking、gemini-2.5-flash、
+gemini-2.5-pro、hunyuan-t1-20250711、qwen-turbo-2025-07-15、qwen3-235b-a22b-instruct-2507、qwen3-235b-a22b-thinking-2507、
+Qwen3-4B-nothink、Qwen3-8B-nothink、Qwen3-14B-nothink、Qwen3-32B-nothink、GLM-4.5-Flash、
+GLM-4.5-Air、Qwen3-30B-A3B-Instruct-2507、Qwen3-30B-A3B-Thinking-2507、
+GLM-4.5-Air-nothink、GLM-4.5-Flash-nothink
 - [2026/7/28] v5.10.16版本
   - 新增大模型：claude-opus-5
 - [2026/7/20] v5.10.15版本
