@@ -1,8 +1,8 @@
 
 # 非线智能 NoneLinear - ReLE评测：中文AI大模型能力评测（持续更新）
 - ReLE （**R**eally R**e**liable **L**ive **E**valuation for LLM），原名CLiB
-- 目前已囊括395个大模型，覆盖chatgpt、gpt-5.6、谷歌gemini-3.1-pro、Claude-5、grok-4.5、文心ERNIE-X1.1、ERNIE-5.1、qwen3.7-max、qwen3.7-plus、百川、讯飞星火、商汤senseChat等商用模型，
-以及hy3、step3.7-flash、kimi-k3、ernie4.5、MiniMax-M3、deepseek-v4、Qwen3.6、llama4、智谱GLM-5.2、MiMo-V2、LongCat、gemma4、mistral等开源大模型。
+- 目前已囊括398个大模型，覆盖chatgpt、gpt-5.6、谷歌gemini-3.1-pro、Claude-5、grok-4.6、文心ERNIE-X1.1、ERNIE-5.1、qwen3.8-max、商汤senseChat等商用模型，
+以及hy3、step3.7-flash、kimi-k3、ernie4.5、MiniMax-M3、deepseek-v4、Qwen3.8、llama4、智谱GLM-5.2、MiMo-V2、LongCat、gemma4、mistral等开源大模型。
 - 支持多维度能力评测，包括教育、医疗与心理健康、金融、法律与行政公务、推理与数学计算、语言与指令遵从、agent与工具调用等7个领域，以及细分的~300个维度（比如牙科、高中语文…）。详见我们的技术报告[ReLE: A Scalable System and Structured Benchmark for Diagnosing Capability Anisotropy in Chinese LLMs](https://www.arxiv.org/abs/2601.17399) 媒体报道(机器之心):[全球304个中文大模型实测：没有“全能王者”，ReLE凭70%降本方案破解评估困局](https://www.jiqizhixin.com/articles/2026-02-03)
 - 不仅提供排行榜，也提供规模**超200万的大模型缺陷库**！方便广大社区研究分析、改进大模型。
 - 为您的私有大模型提供免费评测服务，联系我们(非线智能 ReLE benchmark团队)：[加微信](#联系我们非线智能-ReLE-benchmark团队)
@@ -61,6 +61,8 @@
 - [Cite Us](#如何引用-ReLE-评测Cite-Us)
 
 # 最近评测更新
+- [2026/8/17] v5.11.1版本
+  - 新增大模型：deepseek-v4-pro（正式版）、grok-4.6
 - [2026/8/10] v5.11版本
   - 新增[“图片生成”排行榜](#02-图片生成排行榜)
 - [2026/8/4] v5.10.17版本
@@ -111,9 +113,10 @@ GLM-4.5-Air-nothink、GLM-4.5-Flash-nothink
 # GitHub热门大模型评测项目
 | repo                                                                               | star  | area   | about                                                                                                                                                                                                                                                                   |
 |------------------------------------------------------------------------------------|-------|--------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [langfuse](https://github.com/langfuse/langfuse)                                   | 23.6k | 国外     | Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23                                                                     |
-| [opik](https://github.com/comet-ml/opik)                                           | 18.4k | 国外     | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.                                                                                              |
-| [deepeval](https://github.com/confident-ai/deepeval)                      | 14.2k | 国外     | The LLM Evaluation Framework                                                                                                                                                                                                                                            |
+| [langfuse](https://github.com/langfuse/langfuse)                                   | 32.9k | 国外     | Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23                                                                     |
+| [opik](https://github.com/comet-ml/opik)                                           | 21.3k | 国外     | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.                                                                                              |
+| [promptfoo](https://github.com/promptfoo/promptfoo)                                |   24.2k | 国外     | Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.                                                                                               |
+| [deepeval](https://github.com/confident-ai/deepeval)                      | 17.5k | 国外     | The LLM Evaluation Framework                                                                                                                                                                                                                                            |
 |……|……|……|……|
 | [⭐chinese-llm-benchmark（我们）](https://github.com/jeinlee1991/chinese-llm-benchmark) | 5.7k  | **国内** | ReLE中文大模型能力评测（持续更新） |                                                                                               |
 |……|……|……|……|
